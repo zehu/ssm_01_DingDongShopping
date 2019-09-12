@@ -1,0 +1,65 @@
+* {
+	font-size: 10pt;
+}
+
+body {
+	text-align: center;
+	width: auto;
+	height: auto;
+
+}
+
+.table {
+
+	width: 1200px;
+	height: auto;
+	border: 0;
+	border-collapse: collapse;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.kuang {
+
+	text-align: center;
+	width: 1200px;
+	height: auto;
+	border: 0;
+	border-collapse: collapse;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.table td {
+	/*border: 1px solid #15B69A;*/
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.trTop {
+	/*background: #15B69A;*/
+}
+
+.tdTop {
+	text-align: center;
+	height: 100px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.tdLeft {
+	width: 190px;
+	padding:0;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.tdBody {
+	border-top-width: 0px;
+}
+
+iframe {
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
